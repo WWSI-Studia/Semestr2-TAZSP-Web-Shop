@@ -1,0 +1,6 @@
+services:
+  my_web_shop.restapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
