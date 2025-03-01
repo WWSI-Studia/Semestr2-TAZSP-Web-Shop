@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\My_Web_Shop.Persistence.MySQL\My_Web_Shop.Persistence.MySQL.csproj" />
+  </ItemGroup>
+
 </Project>

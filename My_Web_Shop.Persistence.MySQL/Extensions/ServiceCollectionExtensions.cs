@@ -3,7 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WWSI_Shop.Persistence.MySQL.Context;
 
-namespace Web_Shop.Persistence.MySQL.Extensions
+namespace My_Web_Shop.Persistence.MySQL.Extensions
 {
     public static class ServiceCollectionExtensions
     {
